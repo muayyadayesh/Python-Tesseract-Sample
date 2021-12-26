@@ -1,4 +1,4 @@
-# Python-Tesseract-Sample
+# Python Tesseract Sample
 
 Running Instructions:
 
